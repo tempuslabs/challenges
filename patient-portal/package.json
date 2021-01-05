@@ -15,7 +15,7 @@
   "author": "Engineering at Tempus: People Task Force",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "babel-register": "^6.26.0",
     "bcryptjs": "^2.4.3",
